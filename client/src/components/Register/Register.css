@@ -1,0 +1,20 @@
+.registration {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 250px;
+    height: 40px;
+}
+
+.goToLogin {
+    margin-top: 10px;
+}
+
+.registerStatus {
+    text-align: center;
+    margin-top: 10px;
+}
